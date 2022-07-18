@@ -15,7 +15,6 @@
   * [Creation House](get-started/land/creation-house.md)
   * [Transmitting House](get-started/land/transmitting-house.md)
   * [Auction House](get-started/land/auction-house.md)
-  * [Blacksmith](get-started/land/blacksmith.md)
 * [NFT Characters](get-started/nft-characters/README.md)
   * [Conquer and Earn! ](get-started/nft-characters/conquer-and-earn.md)
   * [Conquer Other Metaverses!](get-started/nft-characters/conquer-other-metaverses.md)

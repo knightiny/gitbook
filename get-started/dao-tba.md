@@ -2,7 +2,7 @@
 
 Each land ring will have its own Decentralized Autonomous Organization (DAO) through which every player (landowners, fighters and merchants) will have an equal vote, no matter how much money they have or the land they own. \
 \
-For decisions affecting all chains, each DAO sends voting representatives to each DAO coalition in all chains. Everything in each colony, including the CLNY supply and treasury, is wholly owned and operated by the community. \
+For decisions affecting all chains, each DAO sends voting representatives to each DAO coalition in all chains. Everything in each colony, including the TINY supply and treasury, is wholly owned and operated by the community. \
 \
 Prior to the launch of the DAO, consuls makes executive decisions that don't matter other than the health of the project and the hopes of the community. Land Rings do not have built-in excess profit models. \
 \
