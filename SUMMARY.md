@@ -5,10 +5,10 @@
 ## GET STARTED
 
 * [What is Knightiny?](get-started/what-is-knightiny.md)
-* [Ready to Conquer](get-started/ready-to-conquer/README.md)
-  * [Claiming Land](get-started/ready-to-conquer/claiming-land.md)
-  * [Claiming NFT Character](get-started/ready-to-conquer/claiming-nft-character.md)
-  * [Claiming Battle Pass](get-started/ready-to-conquer/claiming-battle-pass.md)
+* [HOW TO EARN](get-started/how-to-earn/README.md)
+  * [Claiming Land](get-started/how-to-earn/claiming-land.md)
+  * [Claiming NFT Character](get-started/how-to-earn/claiming-nft-character.md)
+  * [Claiming Battle Pass](get-started/how-to-earn/claiming-battle-pass.md)
 * [Land](get-started/land/README.md)
   * [Main House](get-started/land/main-house.md)
   * [Laboratory ](get-started/land/laboratory.md)

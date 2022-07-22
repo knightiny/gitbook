@@ -20,8 +20,8 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [what-is-knightiny.md](get-started/what-is-knightiny.md)
 {% endcontent-ref %}
 
-{% content-ref url="get-started/ready-to-conquer/" %}
-[ready-to-conquer](get-started/ready-to-conquer/)
+{% content-ref url="get-started/how-to-earn/" %}
+[how-to-earn](get-started/how-to-earn/)
 {% endcontent-ref %}
 
 {% content-ref url="get-started/land/" %}
