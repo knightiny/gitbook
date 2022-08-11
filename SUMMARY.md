@@ -1,14 +1,14 @@
 # Table of contents
 
-* [What is KNIGHTINY?](README.adoc)
+* [What is KNIGHTINY?](README.md)
 
 ## GET STARTED
 
 * [What is Knightiny?](get-started/what-is-knightiny.md)
-* [HOW TO EARN](get-started/how-to-earn/README.md)
-  * [Claiming Land](get-started/how-to-earn/claiming-land.md)
-  * [Claiming NFT Character](get-started/how-to-earn/claiming-nft-character.md)
-  * [Claiming Battle Pass](get-started/how-to-earn/claiming-battle-pass.md)
+* [HOW TO EARN?](get-started/ready-to-conquer/README.md)
+  * [Claim Land](get-started/how-to-earn/claim-land.md)
+  * [Claim NFT Character](get-started/how-to-earn/claim-nft-character.md)
+  * [Claim Battle Pass](get-started/how-to-earn/claim-battle-pass.md)
 * [Land](get-started/land/README.md)
   * [Main House](get-started/land/main-house.md)
   * [Laboratory ](get-started/land/laboratory.md)

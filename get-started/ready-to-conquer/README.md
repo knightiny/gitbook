@@ -1,4 +1,4 @@
-# Ready to Conquer
+# HOW TO EARN?
 
 Your free to choose your role.\
 \

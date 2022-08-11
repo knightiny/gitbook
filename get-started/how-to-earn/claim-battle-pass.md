@@ -1,4 +1,4 @@
-# Claiming Battle Pass
+# Claim Battle Pass
 
 The Gen 1 batch of 20.000 Battle Passes were all claimed at launch.
 
