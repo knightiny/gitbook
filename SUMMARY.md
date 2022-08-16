@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What is KNIGHTINY?](README.md)
+* [What is KNIGHTINY?](README.adoc)
 
 ## GET STARTED
 

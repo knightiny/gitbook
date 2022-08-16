@@ -1,8 +1,8 @@
 # Claim Land
 
 All 20.000 land plots on Exo (first ring lands next to battle land) were claimed. \
-Land on EVM is minting via [**Trailer**](https://knightiny.webflow.io/). \
-However, you can still purchase any land put up for sale via **Key**.
+Land on EVM is minting on [`collection`](https://opensea.io/collection/knightinylands). \
+However, you can still purchase any land put up for sale via ** `site`**.
 
 Generate TINY each day, build and update your houses for more. \
 No matter how many players join, there will only ever be 20.000 land plots for each ring.
