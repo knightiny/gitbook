@@ -2,16 +2,16 @@
 
 Your free to choose your role.\
 \
-**Fighter.** Are you want to win the matches and collect resources? \
+**Fighter.** Do you want to win the matches and collect resources? \
 Good! Pick your NFT and fight! \
 \
-**Landlord.**  Are you want to mine and combine plasma from resources?\
+**Landlord.**  Do you want to mine and combine plasma from resources?\
 Good! Pick your Land and get! \
 \
-**Trader.** Are you want to trade NFTs, resources and plasma?\
+**Trader.** Do you want to trade NFTs, resources and plasma?\
 Good! Open the DEX account and trade!\
 \
-**Uni.** Are you want to fight, combine and trade? \
+**Uni.** Do you want to fight, combine and trade? \
 Good! Pick NFT for fight, Land for mining and combining, DEX account for trading!\
 \
 (Note: Many features described in this GitBook are currently in development. This describes a first "final product", though once that is achieved, development and expansion)
